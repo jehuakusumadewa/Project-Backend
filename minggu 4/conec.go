@@ -6,7 +6,7 @@ import (
 	"gorm.io/gorm"
 	"fmt"
 )
-
+//lala
 type Makan struct {
 	gorm.Model
 	Nama  string
